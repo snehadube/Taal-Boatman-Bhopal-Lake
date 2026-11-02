@@ -2,7 +2,7 @@
 
 A 2D arcade game made with HTML, CSS and JavaScript (Canvas). Steer the boat on Badi Jheel (Bhopal), collect lotus flowers and avoid plastic waste.
 
-**Play online:** https://github.com/snehadube/Taal-Boatman-Bhopal-Lake
+**Play online:** https://snehadube.github.io/Taal-Boatman-Bhopal-Lake/
 
 ## Rules
 - Pink lotus: +10 points. Golden lotus: +30 points and time slows for 5 seconds.
